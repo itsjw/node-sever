@@ -1,0 +1,2 @@
+
+export { reg } from './reg'
